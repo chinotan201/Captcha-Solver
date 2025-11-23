@@ -79,7 +79,7 @@ The script will:
 
 ---
 
-## 💜 **Support**
+##  **Support**
 
 If this project is useful:
 - ⭐ **Star the repository**
